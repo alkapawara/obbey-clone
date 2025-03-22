@@ -1,12 +1,12 @@
 
 @font-face {
     font-family: plain-light;
-    src: url('/font/plain-light-webfont.ttf');
+    src: url('./font/plain-light-webfont.ttf');
 
 }
 @font-face {
     font-family: silk-serif;
-    src: url('/font/silkserif-lightitalic-webfont.ttf');
+    src: url('./font/silkserif-lightitalic-webfont.ttf');
 
 }
 
