@@ -394,7 +394,7 @@ body{
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    /* margin-top: 23vh; */
+    margin-top: 23vh;
     position: relative;
     -webkit-box-align: center;
         -ms-flex-align: center;
