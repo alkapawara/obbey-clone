@@ -434,6 +434,7 @@ body{
 }
 .page3-circle2 svg{
     height: 30%;  
+    transform: rotate(-50deg);
 }
 .circle-in {
     height: 100%;
@@ -491,13 +492,13 @@ body{
     opacity: 1;
 } 
 .image-div {
-    height: 34vw;
+    height: 36vw;
     width: 26vw;
     position: relative;
     overflow: hidden;
     -ms-flex-negative: 0;
         flex-shrink: 0;
-    margin: 1vw;
+    margin: 2vw;
     /* background-color: blue; */
 }
 
